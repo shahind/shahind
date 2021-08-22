@@ -11,7 +11,6 @@ class Shahin:
   def get_bio(self):
     return {
         'Name'                      : 'Shahin Darvishpoor',
-        'Nationality'               : 'Iran',
         'Education'                 : 'Master of Aerospace Engineering, Flight Dynamics and Control',
         'Looking_to_collaborate_on' : 'Aerospace, IoT, Smart Cities, AI, ML, Nature-Inspired Systems, Biotechnology',
         'Currently_learning'        : 'Nature-Inspired Algorithms, Drone Swarms, Smart Cities, ML, AI',
