@@ -35,6 +35,9 @@ class Shahin:
 
 <h4 align="center">Connect with me</h4>
 <div align="center">
+  
+[![image](https://img.shields.io/badge/Scholar-0077B5?style=for-the-badge&logo=Google Scholar&logoColor=white)](https://scholar.google.com/citations?user=5_i7UFUAAAAJ&hl=en)
+[![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Shahin-Darvishpoor)
 [![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-darvishpoor-120829ab/)
 [![image](https://img.shields.io/badge/Gmail-BA3133?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahindarvishpoor@gmail..com)
 </div>
