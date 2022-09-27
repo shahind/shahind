@@ -14,7 +14,7 @@ class Shahin:
         'Education'                 : 'Master of Aerospace Engineering, Flight Dynamics and Control',
         'Looking_to_collaborate_on' : 'Aerospace, IoT, Smart Cities, AI, ML, Nature-Inspired Systems, Biotechnology',
         'Currently_learning'        : 'Nature-Inspired Algorithms, Drone Swarms, Smart Cities, ML, AI',
-        'Ask_Me_About'              : 'Matlab, PHP, Python, Control Engineering, Drones',
+        'Ask_Me_About'              : 'Matlab, PHP, Python, Control Engineering, Drones, Laravel, VueJs, Cordova, Electron, Go',
         }
    
   def __del__(self):
