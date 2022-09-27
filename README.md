@@ -13,8 +13,10 @@ class Shahin:
         'Name'                      : 'Shahin Darvishpoor',
         'Education'                 : 'Master of Aerospace Engineering, Flight Dynamics and Control',
         'Looking_to_collaborate_on' : 'Aerospace, IoT, Smart Cities, AI, ML, Nature-Inspired Systems, Biotechnology',
-        'Currently_learning'        : 'Nature-Inspired Algorithms, Drone Swarms, Smart Cities, ML, AI',
-        'Ask_Me_About'              : 'Matlab, PHP, Python, Control Engineering, Drones, Laravel, VueJs, Cordova, Electron, Go',
+        'Currently_learning'        : 'Nature-Inspired Algorithms, Drone Swarms, Smart Cities, ML, AI, Optimization',
+        'Ask_Me_About'              : 'Coding, Control Engineering, Drones',
+        'Programming Languages'     : 'Matlab, PHP, Python, JS, Kotlin, Go, C++',
+        'Frameworks'                : 'Laravel, Vuejs, Cordova, Electron, Go-Jet',
         }
    
   def __del__(self):
