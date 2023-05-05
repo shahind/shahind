@@ -1,7 +1,7 @@
 I’m @shahind
 <a href="https://github.com/shahind"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshahind&longCache=true"/></a>
 <a href="https://t.me/shahindarvishpoor"><img align="right" alt="Telegram" src="https://img.shields.io/badge/shahindarvishpoor-C6D1D9?logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shahin-darvishpoor-120829ab/"><img align="right" alt="Linkedin" src="https://img.shields.io/badge/shahin darvishpoor-C6D1D9?logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.linkedin.com/in/shahindarvishpoor/"><img align="right" alt="Linkedin" src="https://img.shields.io/badge/shahin darvishpoor-C6D1D9?logo=linkedin&logoColor=blue"/></a>
 
 ```python
 class Shahin:
