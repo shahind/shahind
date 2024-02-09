@@ -11,10 +11,10 @@ class Shahin:
   def get_bio(self):
     return {
         'Name'                      : 'Shahin Darvishpoor',
-        'Education'                 : 'Master of Aerospace Engineering, Flight Dynamics and Control',
-        'Looking_to_collaborate_on' : 'Aerospace, IoT, Smart Cities, AI, ML, Nature-Inspired Systems, Biotechnology',
-        'Currently_learning'        : 'Nature-Inspired Algorithms, Drone Swarms, Smart Cities, ML, AI, Optimization',
-        'Ask_Me_About'              : 'Coding, Control Engineering, Drones',
+        'Education'                 : 'Ph.D at UBC, Mechanical Engineering',
+        'Looking_to_collaborate_on' : 'Control Systems, Aerospace, AI, ML, Nature-Inspired Systems',
+        'Currently_learning'        : 'Data-Driven Control, ML, AI, Optimization',
+        'Ask_Me_About'              : 'Coding, Control Engineering, Drones, Web, Front-end, Back-end',
         'Programming Languages'     : 'Matlab, PHP, Python, JS, Kotlin, Go, C++',
         'Frameworks'                : 'Laravel, Vuejs, Cordova, Electron, Go-Jet',
         }
